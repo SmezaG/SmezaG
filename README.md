@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.Net Development**
 
-- 🌱 I’m currently learning **React, JS**
+- 🌱 I’m currently learning **React, JS, Pyton**
 
 - 👨‍💻 All of my projects are available at [SergioWeb.top](SergioWeb.top)
 
