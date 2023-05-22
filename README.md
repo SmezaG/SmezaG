@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [SergioWeb.top](SergioWeb.top)
 
-- 📫 How to reach me **smezapanama@panamajack.es**
+- 📫 How to reach me **serangu18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
